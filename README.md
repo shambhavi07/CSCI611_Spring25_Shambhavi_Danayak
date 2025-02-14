@@ -1,0 +1,2 @@
+# CSCI611_Spring25_Shambhavi_Danayak
+Contains all assignments/projects
