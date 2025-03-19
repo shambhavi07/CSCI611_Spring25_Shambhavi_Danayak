@@ -6,7 +6,8 @@ This project contains multiple large files which creates issues when uploading t
 To run it on server you access the cscigpu account (`ssh yourusername@cscigpu.csuchico.edu`) -> run jupyter notebook (install if required) (`pip install Jupyter notebook`) -> port forward to your localhost to be able to run the notebook on your browser (`ssh -L 8888:localhost:8888 yourusername@cscigpu.csuchico.edu`).
 
 ### **1. Folders:**   
-'runs/detect/train', 'runs_Data_aug_scale', 'runs_Data_aug_scale_withAnchorBoxTuning', 'runs_high_Reso' contains results from various model runs with varying data augmentation, NMS, confidence score etc. Once you run my notebook (A3.ipynb) same results will be generated. You can edit the folder name/results (in the code block of Jupyter notebook) files etc. as per you directory.
+***'runs/', 'runs_Data_aug_scale/', 'runs_Data_aug_scale_withAnchorBoxTuning/', 'runs_high_Reso/'***   
+contains results from various model runs with varying data augmentation, NMS, confidence score etc. Once you run my notebook (A3.ipynb) same results will be generated. You can edit the folder name/results (in the code block of Jupyter notebook) files etc. as per you directory.
    
 ### **2. The full completed notebook:**  
 Google Drive link: [https://drive.google.com/drive/folders/1Lfc8vh3JuTNYlUjFIQdPriJc7ZvSeb2M?usp=sharing]  
