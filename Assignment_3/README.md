@@ -11,6 +11,8 @@ contains results from various model runs with varying data augmentation, NMS, co
    
 ### **2. The full completed notebook:**  
 ***Google Drive link:*** [https://drive.google.com/drive/folders/1Lfc8vh3JuTNYlUjFIQdPriJc7ZvSeb2M?usp=sharing] 
+![image](https://github.com/user-attachments/assets/da1c7145-e22e-49d1-ba33-ccb225b8e4db)
+
 
 The full notebook is uploaded on Google Drive and access has been provided to you professor (bshen2@csuchico.edu).   In the drive you will find A3.ipynb (implementaion of Assignment 3) and dataset.zip downloaded from roboflow (when you run the notebook there is a codeblock that extracts the dataset and saves it as roboflow_data). I have also added the model file (yolov8n.pt) this file is also available here on GitHub. The drive also contains the sample test video downloaded from course shared drive 'GX011159.MP4' this video is used to generate inference.
 
