@@ -1,4 +1,4 @@
-<u>**How To Run this project**</u>
+<u>How To Run this project</u>
 
 This project contains multiple large files which creates issues when uploading to GitHub (max limit for each file is 25MB). Below are some notes that will help run my notebook,
 
